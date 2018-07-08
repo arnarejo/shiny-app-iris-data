@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530923860475.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2034659076",
+    "id" : "4939888C",
+    "lastKnownWriteTime" : 1531046389,
+    "last_content_update" : 1531046389721,
+    "path" : "~/Documents/PROGRAMMING/git/datacamp/R/projects/shiny/shiny-app-iris/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "84,37",
+        "scrollLine" : "69"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
